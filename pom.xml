@@ -13,11 +13,11 @@
 					<assembleDirectory>target</assembleDirectory>
 					<programs>
 						<program>
-							<mainClass>day2web.WorkerProcess</mainClass>
+							<mainClass>day2Web.WorkerProcess</mainClass>
 							<name>worker</name>
 						</program>
 						<program>
-							<mainClass>day2web.OneOffProcess</mainClass>
+							<mainClass>day2Web.OneOffProcess</mainClass>
 							<name>oneoff</name>
 						</program>
 					</programs>
